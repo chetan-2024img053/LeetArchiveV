@@ -28,9 +28,26 @@ LeetCode solutions, DSA notes, and interview preparation.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0227-basic-calculator-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
