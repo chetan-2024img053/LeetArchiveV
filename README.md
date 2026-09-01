@@ -14,9 +14,18 @@ LeetCode solutions, DSA notes, and interview preparation.
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0394-decode-string) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
