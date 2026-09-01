@@ -12,6 +12,7 @@ LeetCode solutions, DSA notes, and interview preparation.
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -19,6 +20,7 @@ LeetCode solutions, DSA notes, and interview preparation.
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -50,4 +52,12 @@ LeetCode solutions, DSA notes, and interview preparation.
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
