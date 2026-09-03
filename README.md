@@ -18,6 +18,7 @@ LeetCode solutions, DSA notes, and interview preparation.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -60,4 +61,8 @@ LeetCode solutions, DSA notes, and interview preparation.
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
