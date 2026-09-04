@@ -34,6 +34,7 @@ LeetCode solutions, DSA notes, and interview preparation.
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4284-smallest-stable-index-i](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/4284-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +75,8 @@ LeetCode solutions, DSA notes, and interview preparation.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
