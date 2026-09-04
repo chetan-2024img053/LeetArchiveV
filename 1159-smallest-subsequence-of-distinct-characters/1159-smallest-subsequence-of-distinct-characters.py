@@ -1,0 +1,25 @@
+class Solution:
+    def smallestSubsequence(self, s: str) -> str:
+        last_pos = {}
+
+        # Store last occurrence of each character
+        for i, ch in enumerate(s):
+            last_pos[ch] = i
+
+        stack = []
+        seen = set()
+
+        for i, ch in enumerate(s):
+
+            # Skip if already included
+            if ch in seen:
+                continue
+
+            # Remove larger characters if they appear later again
+            while stack and stack[-1] > ch and last_pos[stack[-1]] > i:
+                seen.remove(stack.pop())
+
+            stack.append(ch)
+            seen.add(ch)
+
+        return "".join(stack)
