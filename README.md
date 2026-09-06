@@ -10,6 +10,7 @@ LeetCode solutions, DSA notes, and interview preparation.
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0115-distinct-subsequences) |
 | [0227-basic-calculator-ii](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -86,4 +87,8 @@ LeetCode solutions, DSA notes, and interview preparation.
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
