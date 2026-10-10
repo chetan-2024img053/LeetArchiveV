@@ -19,6 +19,7 @@ LeetCode solutions, DSA notes, and interview preparation.
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0155-min-stack) |
@@ -95,13 +96,16 @@ LeetCode solutions, DSA notes, and interview preparation.
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chetan-2024img053/LeetArchiveV/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
